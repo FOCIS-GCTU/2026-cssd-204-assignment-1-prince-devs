@@ -20,7 +20,7 @@ def main():
     # block letter format. Each letter is 12 characters wide by 10 characters
     # Three-dot separators appear before and after each letter and period block.
     # A 2x2 asterisk period follows each letter on the final two rows.
-
+ 
 
     print()
     print("...PLA")
