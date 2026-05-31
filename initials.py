@@ -16,25 +16,24 @@
 def main():
 
 
-    # Print initials PLA in small (one line) and large (10-line block)
-    # block letter format. Each letter is 12 characters wide by 10 characters
-    # Three-dot separators appear before and after each letter and period block.
+    # Print initials PLA in large letters
+    # Each letter is 12 characters wide by 10 characters
     # A 2x2 asterisk period follows each letter on the final two rows.
- 
+
 
     print()
     print("...PLA")
     print()
-    print("...PPPPPPPPPP..........LLL.....................AAA..........")
-    print("...PPPPPPPPPPPP........LLL....................AA.AA.........")
-    print("...PPP.......PP........LLL...................AAA..AAA.......")
-    print("...PPPPPPPPPPPP........LLL..................AAA....AAA......")
-    print("...PPPPPPPPPP..........LLL.................AAAAAAAAAAAA.....")
-    print("...PPP.................LLL.................AAAAAAAAAAAA.....")
-    print("...PPP.................LLL.................AAA......AAA.....")
-    print("...PPP.................LLL.................AAA......AAA.....")
-    print("...PPP............**...LLLLLLLLLLLL...**...AAA......AAA...**")
-    print("...PPP............**...LLLLLLLLLLLL...**...AAA......AAA...**")
+    print("...PPPPPPPPPP..........LL......................AAAA.........")
+    print("...PPPPPPPPPPPP........LL.....................AA..AA........")
+    print("...PP........PP........LL....................AA....AA.......")
+    print("...PPPPPPPPPPPP........LL...................AA......AA......")
+    print("...PPPPPPPPPP..........LL..................AAAAAAAAAAAA.....")
+    print("...PP..................LL..................AAAAAAAAAAAA.....")
+    print("...PP..................LL..................AA........AA.....")
+    print("...PP..................LL..................AA........AA.....")
+    print("...PP.............**...LLLLLLLLLLLL...**...AA........AA...**")
+    print("...PP.............**...LLLLLLLLLLLL...**...AA........AA...**")
     print()
 
 
